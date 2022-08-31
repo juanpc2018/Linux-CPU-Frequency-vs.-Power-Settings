@@ -19,7 +19,7 @@ Line Chart, No Stacked, No Grid, 0%-25% Opacity is Similar to Gnome System Monit
 Problem is the Show Sensor Legend Font size. </br>
 needs a good Global Font configuration outside System Monitor.</br>
 has presets. </br>
-very configurable, eye candy but does Not have all information </p>
+very configurable, eye candy but does Not have all information.</p>
 
 GKrellM System Monitor: </br>
 also Not all information, looks similar to OSX,</br>
