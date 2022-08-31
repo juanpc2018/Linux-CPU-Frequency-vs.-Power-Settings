@@ -14,19 +14,19 @@ To edit each panel needs to select the border of the panel,</br>
 that opens a hidden menu "Edit Mode", then click the actual panel </br>
 instead of that should havbe icons vibrating like Mobiles.</br> 
 Needs tweaking, </br>
-Line Chart, No Stacked, No Grid, 0%-25% Opacity is Similar to Gnome System Monitor.</bt>
+Line Chart, No Stacked, No Grid, 0%-25% Opacity is Similar to Gnome System Monitor.</br>
+Problem is the Show Sensor Legend Font size. </br>
+needs a good Global Font configuration outside System Monitor.</br>
+has presets. </br>
+very configurable, eye candy but does Not have all information </p>
 
-has presets. <>/br
-very configurable, eye candy but does Not have all information available </br>
-needs a good Global Font configuration.</p>
-
-GKrellM System Monitor, </br>
-is also incomplete, but looks similar to OSX,</br>
+GKrellM System Monitor: </br>
+is also Not all information, looks similar to OSX,</br>
 OSX allows to resize the CPU Windows with the Mouse,</br>
 GKrellM is fixed, only Font size can resize the Window,</br>
+but Font size is inside the GKrellM System Monitor, better than Plasma SystemMonitor Global font outside.</br>
 OSX only shows CPU floating window, and Dock Icon can show other info like Network,</br>
-GKrellM can show more in the Floating window, No Dock icon. feels more primitive.</br>
-Font size is inside the GKrellM System Monitor, better than Plasma SystemMonitor Global font outside.</p>
+GKrellM can show more info in the Floating window, No Dock icon, feels more primitive in some ways.</p>
 
 Xosview floating window can be resized very nice, much better than GKrellM in that,</br>
 has more information, like CPU freq.</br>
