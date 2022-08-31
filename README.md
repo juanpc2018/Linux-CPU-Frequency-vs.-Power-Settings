@@ -58,23 +58,23 @@ CPU-X</br>![image](https://user-images.githubusercontent.com/33388902/187737390-
 ---------
 cpupower-gui</br>![image](https://user-images.githubusercontent.com/33388902/187737448-f2b68833-c105-4467-833c-53a49adf3539.png)
 --------
-$ sudo apt install cpupower-gui </br>
+$ sudo apt install cpupower-gui </p>
+
+$ sudo apt install cpupower </br>
 $ sudo apt install linux-tools-common </br>
 $ sudo apt install linux-nvidia-tools-common </br>
-$ sudo apt install linux-intel-iotg-tools-common </p>
-$ sudo apt install linux-tools-5.15.0-47-generic </p>
-
+$ sudo apt install linux-intel-iotg-tools-common </br>
+$ sudo apt install linux-tools-5.15.0-47-generic </br>
 $ sudo cpupower monitor </br>
 $ sudo cpupower frequency-info </p>
 
-Gnome shell optional, does Not work in Kubuntu: </p>
-
+Gnome shell optional, does Not work in Kubuntu: </br>
 $ sudo add-apt-repository ppa:fin1ger/cpupower </br>
 $ sudo apt-get update </br>
 $ sudo apt-get install gnome-shell-extension-cpupower </br>
 $ gnome-extensions enable cpupower@mko-sl.de </p>
 
-power options: </br>
+CPU Power Options: </br>
 $ cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_available_governors </br> 
 conservative ondemand userspace powersave performance schedutil <p>
 
