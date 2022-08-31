@@ -1,0 +1,1 @@
+# Linux-CPU-Frequency-vs.-Power-Settings
