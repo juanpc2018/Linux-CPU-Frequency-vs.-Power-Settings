@@ -10,9 +10,10 @@ but more like Kubuntu Widgets.</br>
 its pretty, colorful, configurable like GKrellM,</br>
 but has a strange way of doing things.</br>
 configuration has nested sub menus.</br>
-To edit each panel needs to select the border of the panel,</br> 
-that opens a hidden menu "Edit Mode", then click the actual panel </br>
-instead of that should havbe icons vibrating like Mobiles.</br> 
+To edit each panel needs to select the border of the panel,
+Up Border: Add, Delete, Height.</br> 
+Down Border: opens "Edit Mode" then click the actual panel to Edit. </br>
+instead of vibrating icons like Mobiles.</br> 
 Needs tweaking, </br>
 Line Chart, No Stacked, No Grid, 0%-25% Opacity is Similar to Gnome System Monitor.</br>
 Problem is the Show Sensor Legend Font size. </br>
