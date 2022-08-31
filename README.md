@@ -7,7 +7,7 @@ CPU Freq, Powermode, Disk i/o. </p>
 
 plasma-systemmonitor is similar to Gnome System Monitor, </br>
 but more like Kubuntu Widgets.</br>
-its ok, but... too much nested sub menu configs.
+its ok, but... too much nested sub menu configs.</br>
 Show Y Axis Labels "Fonts" is annoyiong.</br>
 Show Sensor Legend "Fonts" is annoyiong.</br> 
 Needs tweaking, and still does Not have all information available,</br>
