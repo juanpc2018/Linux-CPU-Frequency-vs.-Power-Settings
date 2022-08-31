@@ -23,14 +23,16 @@ needs a good Global Font configuration.</p>
 GKrellM System Monitor, </br>
 is also incomplete, but looks similar to OSX,</br>
 OSX allows to resize the CPU Windows with the Mouse,</br>
-GKrellM is fixed, only Font size can resize the Window,
-Font size is insed the GKrellM System Monitor, better than Plasma SystemMonitor.</p>
+GKrellM is fixed, only Font size can resize the Window,</br>
+OSX only shows CPU floating window, and Dock Icon can show other info like Network,</br>
+GKrellM can show more in the Floating window, No Dock icon. feels more primitive.</br>
+Font size is inside the GKrellM System Monitor, better than Plasma SystemMonitor Global font outside.</p>
 
-Xosview can be resized, much better than GKrellM in that,</br>
-has more information, CPU freq.</br>
-but Theme & Fonts are Horrible.</br>
-does Not have individual Cores, </br>
-and Network ranges seem far off.</p>
+Xosview floating window can be resized very nice, much better than GKrellM in that,</br>
+has more information, like CPU freq.</br>
+but small Fonts & Theme are Horrible.</br>
+does Not have individual Cores, plastama meters are much more eye candy. </br>
+and Network auto-ranges seem far off in Xosview, in plasma Auto Ranges are much better.</p>
 
 Kubuntu Widgets has very pretty individual CPU core meters, </br>
 or nice circular single Total CPU Meter.</br>
