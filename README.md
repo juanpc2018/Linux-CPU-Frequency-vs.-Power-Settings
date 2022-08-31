@@ -46,6 +46,16 @@ CPU-X = CPU-Z = $ sudo cpupower monitor </p>
 cpupower-gui is a nice way to change power settings.</br>
 $ cpupower is a nice Terminal way to monitor settings, like Htop </p>
 
+file:///home/mama/Imágenes/Screenshot_20220831_115703.jpg![image](https://user-images.githubusercontent.com/33388902/187737177-d21d7b4f-2026-470c-a14b-23d873631f83.png)
+file:///home/mama/Imágenes/Screenshot_20220831_115522.jpg![image](https://user-images.githubusercontent.com/33388902/187737262-db104873-b1b1-49e5-9847-009c80037cbf.png)
+file:///home/mama/Imágenes/Screenshot_20220831_115112.jpg![image](https://user-images.githubusercontent.com/33388902/187737339-1565c40d-9835-4465-84f5-c462923cce02.png)
+file:///home/mama/Imágenes/Screenshot_20220831_115728.jpg![image](https://user-images.githubusercontent.com/33388902/187737390-33f18207-f56f-43ac-8e1d-1c80f4c8fb5f.png)
+file:///home/mama/Imágenes/Screenshot_20220831_115744.jpg![image](https://user-images.githubusercontent.com/33388902/187737448-f2b68833-c105-4467-833c-53a49adf3539.png)
+
+
+
+----------
+
 $ sudo apt install cpupower-gui </br>
 $ sudo apt install linux-tools-common </br>
 $ sudo apt install linux-nvidia-tools-common </br>
