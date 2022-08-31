@@ -7,15 +7,16 @@ CPU Freq, Powermode, Disk i/o. </p>
 
 plasma-systemmonitor is similar to Gnome System Monitor, </br>
 but more like Kubuntu Widgets.</br>
-its ok, but... too much nested sub menu configs.</br>
-To edit each panel individually you need to select the border of the panel,</br> 
-that opens a hidden menu, and then click on the actual panel,</br>
-is as configurable as GKrellM, but strange way of doing things.</br> 
+its pretty & colorful, but... nested sub menus to config.</br>
+as configurable as GKrellM, but has a strange way of doing things at first.</br>
+To edit each panel, needs to select the border of the panel,</br> 
+that opens a hidden menu "Edit Mode", then click the actual panel </br>
+instead of that should havbe icons vibrating like Mobiles.</br> 
+Needs tweaking, </br>
 Show Y Axis Labels "Fonts" is annoyiong.</br>
 Show Sensor Legend "Fonts" is annoyiong.</br> 
-Needs tweaking, and still does Not have all information available,</br>
-Fonts looks weird, needs better Global Font configuration.</p>
-
+and still does Not have all information available </br>
+needs a good Global Font configuration.</p>
 
 GKrellM System Monitor, </br>
 is also incomplete, but looks similar to OSX,</br>
