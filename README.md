@@ -52,9 +52,9 @@ GKrellM System Monitor - CoplandOS Theme </br>
 -------
 Plasma System Monitor![image](https://user-images.githubusercontent.com/33388902/187737262-db104873-b1b1-49e5-9847-009c80037cbf.png)
 -------
-Gnome![image](https://user-images.githubusercontent.com/33388902/187737339-1565c40d-9835-4465-84f5-c462923cce02.png)
+Gnome System Monitor![image](https://user-images.githubusercontent.com/33388902/187737339-1565c40d-9835-4465-84f5-c462923cce02.png)
 --------
-CPU-X![image](https://user-images.githubusercontent.com/33388902/187737390-33f18207-f56f-43ac-8e1d-1c80f4c8fb5f.png)
+CPU-X</br>![image](https://user-images.githubusercontent.com/33388902/187737390-33f18207-f56f-43ac-8e1d-1c80f4c8fb5f.png)
 ---------
 cpupower-gui![image](https://user-images.githubusercontent.com/33388902/187737448-f2b68833-c105-4467-833c-53a49adf3539.png)
 --------
