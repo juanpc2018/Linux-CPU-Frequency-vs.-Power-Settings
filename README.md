@@ -16,7 +16,8 @@ instead of that should havbe icons vibrating like Mobiles.</br>
 Needs tweaking, </br>
 Show Y Axis Labels "Fonts" is annoyiong.</br>
 Show Sensor Legend "Fonts" is annoyiong.</br> 
-and still does Not have all information available </br>
+but has presets. <>/br
+very configurable, eye candy but does Not have all information available </br>
 needs a good Global Font configuration.</p>
 
 GKrellM System Monitor, </br>
