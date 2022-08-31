@@ -2,7 +2,8 @@
 
 Sadly in Linux / K/Ubuntu </br>
 Gnome System Monitor is very Basic "incomplete",</br>
-Needs other softwares to see the whole information. </p>
+Needs other softwares to see the whole information, </br>
+CPU Freq, Powermode, Disk i/o. </p>
 
 plasma-systemmonitor is similar to Gnome System Monitor, </br>
 but more like Kubuntu Widgets.</br>
