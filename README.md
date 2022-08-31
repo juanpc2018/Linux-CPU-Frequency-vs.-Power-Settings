@@ -10,7 +10,7 @@ but more like Kubuntu Widgets.</br>
 its pretty, colorful, configurable like GKrellM,</br>
 but has a strange way of doing things.</br>
 configuration has nested sub menus.</br>
-To edit each panel needs to select the border of the panel,
+To edit each panel needs to select the border of the panel,</br> 
 Up Border: Add, Delete, Height.</br> 
 Down Border: opens "Edit Mode" then click the actual panel to Edit. </br>
 instead of vibrating icons like Mobiles.</br> 
