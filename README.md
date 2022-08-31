@@ -21,7 +21,7 @@ has presets. </br>
 very configurable, eye candy but does Not have all information </p>
 
 GKrellM System Monitor: </br>
-is also Not all information, looks similar to OSX,</br>
+also Not all information, looks similar to OSX,</br>
 OSX allows to resize the CPU Windows with the Mouse,</br>
 GKrellM is fixed, only Font size can resize the Window,</br>
 but Font size is inside the GKrellM System Monitor, better than Plasma SystemMonitor Global font outside.</br>
