@@ -21,52 +21,46 @@ needs a good Global Font configuration.</p>
 
 GKrellM System Monitor, </br>
 is also incomplete, but looks similar to OSX,</br>
-OSX allows to resize the Windows with the Mouse,</br>
-GKrellM is fixed, only Font size can resize the Window.</p>
+OSX allows to resize the CPU Windows with the Mouse,</br>
+GKrellM is fixed, only Font size can resize the Window,
+Font size is insed the GKrellM System Monitor, better than Plasma SystemMonitor.</p>
 
-Xosview can be resized, is more informative,</br>
-but Theme and Fonts are horrible.</br>
+Xosview can be resized, much better than GKrellM in that,</br>
+has more information, CPU freq.</br>
+but Theme & Fonts are Horrible.</br>
 does Not have individual Cores, </br>
 and Network ranges seem far off.</p>
 
-Kubuntu Widgets has very pretty individual CPU core meters, 
-or nice circular single Total CPU Meter.
-very pretty, minimalistic but lacks more information.</p>
+Kubuntu Widgets has very pretty individual CPU core meters, </br>
+or nice circular single Total CPU Meter.</br>
+very pretty, minimalistic but lacks information.</p>
 
-CPU-X is a Nice way to see CPU Frequency.
+CPU-X is a Nice way to see CPU Frequency. </br>
 Has "Dark" Theme, but Not as good as GKrellM custom Themes.</p>
 
-CPU-X = CPU-Z = $ sudo cpupower monitor
-cpupower-gui
+CPU-X = CPU-Z = $ sudo cpupower monitor </p>
 
-$ sudo apt install cpupower-gui
+cpupower-gui is a nice way to change power settings.</br>
+$ cpupower is a nice Terminal way to monitor settings, like Htop </p>
 
+$ sudo apt install cpupower-gui </br>
+$ sudo apt install linux-tools-common </br>
+$ sudo apt install linux-nvidia-tools-common </br>
+$ sudo apt install linux-intel-iotg-tools-common </p>
+$ sudo apt install linux-tools-5.15.0-47-generic </p>
 
-$ sudo apt install linux-tools-common
-$ sudo apt install linux-nvidia-tools-common
-$ sudo apt install linux-intel-iotg-tools-common
+$ sudo cpupower monitor </br>
+$ sudo cpupower frequency-info </p>
 
-$ sudo apt install linux-tools-5.15.0-47-generic
+Gnome shell optional, does Not work in Kubuntu: </p>
 
-$ sudo cpupower monitor
-$ sudo cpupower frequency-info
+$ sudo add-apt-repository ppa:fin1ger/cpupower </br>
+$ sudo apt-get update </br>
+$ sudo apt-get install gnome-shell-extension-cpupower </br>
+$ gnome-extensions enable cpupower@mko-sl.de </p>
 
+power options: </br>
+$ cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_available_governors </br> 
+conservative ondemand userspace powersave performance schedutil <p>
 
-gnome shell optional:
-
-$ sudo add-apt-repository ppa:fin1ger/cpupower
-
-$ sudo apt-get update
-$ sudo apt-get install gnome-shell-extension-cpupower
-
-$ gnome-extensions enable cpupower@mko-sl.de
-
-
-power options:
-$ cat /sys/devices/system/cpu/cpu0/cpufreq/scaling_available_governors 
-conservative ondemand userspace powersave performance schedutil 
-
-$ sudo apt install cpufrequtils
-
-
-$ cat /etc/mbpfan.conf
+$ sudo apt install cpufrequtils </br>
