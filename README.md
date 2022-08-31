@@ -46,6 +46,7 @@ CPU-X = CPU-Z = $ sudo cpupower monitor </p>
 
 cpupower-gui is a nice way to change power settings.</br>
 $ cpupower is a nice Terminal way to monitor settings, like Htop </p>
+
 ---------
 GKrellM System Monitor - CoplandOS Theme</br>![image](https://user-images.githubusercontent.com/33388902/187737177-d21d7b4f-2026-470c-a14b-23d873631f83.png)
 -------
