@@ -58,6 +58,8 @@ CPU-X</br>![image](https://user-images.githubusercontent.com/33388902/187737390-
 ---------
 cpupower-gui</br>![image](https://user-images.githubusercontent.com/33388902/187737448-f2b68833-c105-4467-833c-53a49adf3539.png)
 --------
+Xosview</br>![image](https://user-images.githubusercontent.com/33388902/187741089-58d6c5c4-e454-4449-981e-74debeb2dce2.png)
+------
 $ sudo apt install cpupower-gui </p>
 
 $ sudo apt install cpupower </br>
