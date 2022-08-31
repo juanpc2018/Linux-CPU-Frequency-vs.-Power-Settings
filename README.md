@@ -60,6 +60,8 @@ cpupower-gui</br>![image](https://user-images.githubusercontent.com/33388902/187
 --------
 Xosview</br>![image](https://user-images.githubusercontent.com/33388902/187741089-58d6c5c4-e454-4449-981e-74debeb2dce2.png)
 ------
+Xosview Resized</br>![image](https://user-images.githubusercontent.com/33388902/187741852-73d1fda9-6da3-4cb0-bfc3-74d0bf664ad3.png)
+------
 $ sudo apt install cpupower-gui </p>
 
 $ sudo apt install cpupower </br>
